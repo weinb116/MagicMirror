@@ -1,0 +1,2 @@
+# MagicMirror
+Networks Final Project
