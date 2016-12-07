@@ -1,4 +1,10 @@
-import restfb-1.34.1;
+import com.restfb.Connection;
+import com.restfb.DefaultFacebookClient;
+import com.restfb.FacebookClient;
+import com.restfb.types.Post;
+import com.restfb.types.User;
+import java.util.*;
+import java.lang.*;
 
 public class FacebookAPI
 {
